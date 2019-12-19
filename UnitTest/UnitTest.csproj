@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="chapter1-6-1\Form11611Test.cs" />
+    <Compile Include="chapter1-7-1\Form11711Test.cs" />
     <Compile Include="Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
