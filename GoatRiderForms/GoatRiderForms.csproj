@@ -58,6 +58,12 @@
     <Compile Include="chapter1-7-1\Form11711.Designer.cs">
       <DependentUpon>Form11711.cs</DependentUpon>
     </Compile>
+    <Compile Include="chapter2-4-1\Form12411.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chapter2-4-1\Form12411.Designer.cs">
+      <DependentUpon>Form12411.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="chapter1-6-1\Form11611.resx">
@@ -65,6 +71,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="chapter1-7-1\Form11711.resx">
       <DependentUpon>Form11711.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chapter2-4-1\Form12411.resx">
+      <DependentUpon>Form12411.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

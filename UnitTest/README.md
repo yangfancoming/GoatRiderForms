@@ -4,5 +4,3 @@
     chapter1-6-1   CheckListBox
     chapter1-7-1   ListBox
     
-    chapter2-4-1   ListBox
-    
